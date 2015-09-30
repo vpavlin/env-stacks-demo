@@ -69,5 +69,8 @@ https://github.com/vpavlin/env-stacks-demo/tree/f21/apache -> envstacks/apache:f
 
 ### Setting Up Rebuilds Based on Fedora Image
 
+Docker Hub is able to create hooks between repositories. We can use this to automatically rebuild our images based on new official Fedora base image release. To set this up is very easy. Just enter "Build Settings" section and provide the name of the repository you want to depend on.
+
 ![How to set up rebuilds 1](https://raw.githubusercontent.com/vpavlin/env-stacks-demo/master/presentation/fedora-rebuild1.png)
+
 ![How to set up rebuilds 2](https://raw.githubusercontent.com/vpavlin/env-stacks-demo/master/presentation/fedora-rebuild2.png)
