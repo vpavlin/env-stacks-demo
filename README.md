@@ -65,4 +65,4 @@ https://github.com/vpavlin/env-stacks-demo/tree/f21/apache -> envstacks/apache:f
 
 ### Setting up Automated Build
 
-[![How to set up an Automated Build on Docker Hub]](https://youtu.be/34c9kERdJ8Y)
+[![How to set up an Automated Build on Docker Hub](https://raw.githubusercontent.com/vpavlin/env-stacks-demo/master/presentation/create-automated-build.png)](https://youtu.be/34c9kERdJ8Y)
