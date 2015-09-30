@@ -1,4 +1,4 @@
-FROM fedora:20
+FROM fedora:rawhide
 MAINTAINER http://fedoraproject.org/wiki/Cloud
 
 RUN dnf -y update && dnf clean all
