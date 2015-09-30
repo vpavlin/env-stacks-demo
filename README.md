@@ -63,6 +63,11 @@ For example `apache` project from `f21` branch from this repository can be repre
 https://github.com/vpavlin/env-stacks-demo/tree/f21/apache -> envstacks/apache:f21
 ```
 
-### Setting up Automated Build (video)
+### Setting Up Automated Build (video)
 
 [![How to set up an Automated Build on Docker Hub](https://raw.githubusercontent.com/vpavlin/env-stacks-demo/master/presentation/create-automated-build.png)](https://youtu.be/34c9kERdJ8Y)
+
+### Setting Up Rebuilds Based on Fedora Image
+
+![How to set up rebuilds 1](https://raw.githubusercontent.com/vpavlin/env-stacks-demo/master/presentation/fedora-rebuild1.png)
+![How to set up rebuilds 2](https://raw.githubusercontent.com/vpavlin/env-stacks-demo/master/presentation/fedora-rebuild2.png)
