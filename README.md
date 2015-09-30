@@ -65,6 +65,8 @@ https://github.com/vpavlin/env-stacks-demo/tree/f21/apache -> envstacks/apache:f
 
 ### Setting Up Automated Build (video)
 
+Automated Builds are a feature of Docker Hub which lets you to set up build tasks based on Github repository, branch and path in that repository. In the video below you can see how to create new Automated Builds. If you then commit and push some changes to a selected branch the image get rebuilt automatically. 
+
 [![How to set up an Automated Build on Docker Hub](https://raw.githubusercontent.com/vpavlin/env-stacks-demo/master/presentation/create-automated-build.png)](https://youtu.be/34c9kERdJ8Y)
 
 ### Setting Up Rebuilds Based on Fedora Image
